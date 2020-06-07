@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">uas_mobile</string>
+    <string name="sejarah">PT. Javan Cipta Solusi didirikan pada tahun 2008 oleh sekelompok orang muda yang antusias dan berbakat untuk menciptakan berbagai solusi berbasis teknologi untuk memfasilitasi kehidupan manusia. PT. Javan Cipta Solusi memberikan solusi melalui Teknologi Informasi yang memberikan keunggulan kompetitif dan berkontribusi pada pertumbuhan top-line, secara proaktif menambah pendapatan.
+\n(Custom Software Development) Kebanyakan klien membutuhkan perangkat lunak untuk menyesuaikan keadaan mereka, bukan sebaliknya. Untuk itu jarang ada software yang bisa langsung memenuhi kebutuhan suatu agensi. Untuk alasan ini ada kebutuhan untuk pengembangan perangkat lunak kustom. Karakteristik perangkat lunak khusus yang kita buat didasarkan pada perangkat lunak open source sebagai komponen pengembangan kecuali hal-hal yang tidak ada dan memerlukan penggunaan solusi berbayar.</string>
+    <string name="visi">Kehidupan kerja harus seimbang. Perusahaan PT. Javan Cipta Solusi akan menjadi tempat kerja yang ideal untuk mengekspresikan nafsu, memenuhi kebutuhan, membangun keluarga bahagia, mendidik generasi masa depan, menikmati hidup dan memberi kontribusi kepada masyarakat.</string>
+    <string name="misi">a. Menjadi perusahaan teknologi kreatif, inovatif, dan kredibel yang terkenal di SEA pada tahun 2020.
+\nb. Memberikan solusi pemecahan masalah yang berkualitas dan menguntungkan bagi pelanggan PT. Javan Cipta Solusi yang senang.</string>
+    <string name="solusi">1. Temukan masalah
+\n2. Membuat solusi
+\n3. Menyenangkan pelanggan</string>
+    <string name="bidang1">PT. Javan Cipta Solusi telah membantu banyak klien untuk merancang dan membangun sistem TI untuk mendukung bisnis ini. PT. Javan Cipta Solusi melakukan perubahan proses bisnis dengan menggunakan software dan teknologi. PT. Javan Cipta Solusi akan membantu Anda merancang sistem TI yang akan membuat proses bisnis menjadi lebih mudah, efektif, dan efisien. PT. Javan Cipta Solusi memiliki tim ahli yang siap membantu Anda membangun sistem TI.</string>
+    <string name="bidang2">PT. Javan Cipta Solusi ahli dalam aplikasi mobile dan web android. PT. Javan Cipta Solusi menggunakan bahasa pemrograman Java, PHP dan Groovy. PT. Javan Cipta Solusi menggunakan kerangka laravel, Grails, Spring Framework, bootstrap, jQuery dan Angular JS untuk mempercepat pengiriman proyek.</string>
+    <string name="bidang3">Tim PT. Javan Cipta Solusi siap menangani sistem TI untuk mendukung bisnis Anda. Anda bisa fokus berurusan dengan bisnis Anda untuk menghasilkan keuntungan maksimal. Serahkan pada penanganan pengembangan sistem TI, pemeliharaan server, manajemen situs web dan pemasaran digital.</string>
+    <string name="bidang4">PT. Javan Cipta Solusi ahli dalam aplikasi mobile dan web android. PT. Javan Cipta Solusi menggunakan bahasa pemrograman Java, PHP dan Groovy. PT. Javan Cipta Solusi menggunakan kerangka laravel, Grails, Spring Framework, bootstrap, jQuery dan Angular JS untuk mempercepat pengiriman proyek.</string>
+</resources>
